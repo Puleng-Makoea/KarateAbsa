@@ -7,12 +7,12 @@
             <NbOfTxs>#(NbOfTxsVal)</NbOfTxs>
             <CtrlSum>#(CtrlSumVal)</CtrlSum>
             <InitgPty>
-                <Nm>#(InitgPtyNm)</Nm>
+                <Nm>#(InitgPtyNmVal)</Nm>
             </InitgPty>
         </GrpHdr>
         <PmtInf>
-            <PmtInfId>#(PmtInfId)</PmtInfId>
-            <PmtMtd>#(PmtMtd)</PmtMtd>
+            <PmtInfId>#(PmtInfIdVal)</PmtInfId>
+            <PmtMtd>#(PmtMtdVal)</PmtMtd>
             <ReqdColltnDt>#(ReqdColltnDtVal)</ReqdColltnDt>
             <Cdtr>
                 <Nm>#(CdtrNmVal)</Nm>
@@ -41,7 +41,7 @@
                 </PmtId>
                 <PmtTpInf>
                     <SvcLvl>
-                        <Prtry>#(SvcLvlPrtry)</Prtry>
+                        <Prtry>#(SvcLvlPrtryVal)</Prtry>
                     </SvcLvl>
                     <LclInstrm>
                         <Prtry>10</Prtry>
