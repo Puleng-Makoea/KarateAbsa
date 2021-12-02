@@ -1,0 +1,12 @@
+
+**/.idea
+**/*.iml
+**/.gradle
+**/.vscode
+**/target
+**/out
+**/build
+
+**/.classpath
+**/.project
+**/.settings
